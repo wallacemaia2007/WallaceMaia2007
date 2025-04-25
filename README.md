@@ -49,7 +49,7 @@ title="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdeliv
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="170"
+      height="150"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallacemaia2007&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
