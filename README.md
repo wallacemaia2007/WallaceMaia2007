@@ -41,15 +41,16 @@ title="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdeliv
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="400" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=wallacemaia2007&show_icons=true&theme=tokyonight&include_all_commits=true" 
   />
+  <br>
 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200"
+      height="400"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallacemaia2007&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
