@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=Back-End+Java+Developer;Information+Systems;Spring+Boot+Enthusiast)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=Fullstack+Java+Developer;Spring+Boot+%2B+Angular;Information+Systems+Student)
 
 </div>
 
@@ -10,9 +10,9 @@
 
 ## 🚀 About me
 
-Hello! I'm **Wallace Candido Maia Sousa**, an 18-year-old Back-End developer from Minas Gerais. I'm currently pursuing a **Bachelor's degree in Information Systems** at UEMG and I'm passionate about creating technological solutions that make a difference.
+Hello! I'm **Wallace Candido Maia Sousa**, an 18-year-old Fullstack developer from Minas Gerais. I'm currently pursuing a **Bachelor's degree in Information Systems** at UEMG and I'm passionate about creating technological solutions that make a difference.
 
-🔹 **Specialization:** Back-End Development with Java and Spring Boot  
+🔹 **Specialization:** Fullstack Development with Java, Spring Boot and Angular  
 🔹 **Passion:** Software architecture and RESTful APIs  
 🔹 **Goal:** Contribute to projects that positively impact society  
 🔹 **Mindset:** Clean code, best practices and continuous learning  
@@ -25,7 +25,9 @@ Hello! I'm **Wallace Candido Maia Sousa**, an 18-year-old Back-End developer fro
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 ### **Database**
@@ -35,10 +37,12 @@ Hello! I'm **Wallace Candido Maia Sousa**, an 18-year-old Back-End developer fro
 ![H2](https://img.shields.io/badge/H2%20Database-003B57?style=for-the-badge&logo=h2&logoColor=white)
 
 ### **Front-End**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ### **Tools & Others**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -48,6 +52,8 @@ Hello! I'm **Wallace Candido Maia Sousa**, an 18-year-old Back-End developer fro
 ![STS](https://img.shields.io/badge/STS-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-C5D9C8?style=for-the-badge)
 
 ### **Cloud & DevOps**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -56,7 +62,6 @@ Hello! I'm **Wallace Candido Maia Sousa**, an 18-year-old Back-End developer fro
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
 
 ## 📚 Currently Studying
 
@@ -83,14 +88,13 @@ Hello! I'm **Wallace Candido Maia Sousa**, an 18-year-old Back-End developer fro
 
 ---
 
-
 ## 🌐 Connect with Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wallacemaia-dev/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wallace_maia._/)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:wallacemaia@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:wallacemaia2007@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
 
 </div>
@@ -100,11 +104,10 @@ Hello! I'm **Wallace Candido Maia Sousa**, an 18-year-old Back-End developer fro
 ## 🤝 Let's Talk!
 
 💬 I'm always open to discussions about technology, collaboration opportunities and networking!  
-🚀 Interested in challenging projects involving Java, Spring Boot and scalable architectures.  
+🚀 Interested in challenging projects involving Java, Spring Boot, Angular and scalable architectures.  
 📧 Feel free to reach out to exchange ideas or professional opportunities.
 
 <div align="center">
-  
 
 **"Code is poetry in motion, and every line is an opportunity to create something extraordinary!"** ✨
 
