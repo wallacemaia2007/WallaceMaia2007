@@ -10,7 +10,7 @@
 
 ## 🚀 About me
 
-Hello! I'm **Wallace Candido Maia Sousa**, an 18-year-old Fullstack developer from Minas Gerais. I'm currently pursuing a **Bachelor's degree in Information Systems** at UEMG and I'm passionate about creating technological solutions that make a difference.
+Hello! I'm **Wallace Candido Maia Sousa**, an 18-year-old Fullstack developer from Minas Gerais. I'm currently pursuing a **Bachelor's degree in Information Systems** at UFU and I'm passionate about creating technological solutions that make a difference.
 
 🔹 **Specialization:** Fullstack Development with Java, Spring Boot and Angular  
 🔹 **Passion:** Software architecture and RESTful APIs  
