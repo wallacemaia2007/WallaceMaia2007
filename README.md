@@ -19,11 +19,11 @@ I'm currently pursuing a **Bachelor's degree in Information Systems at UFU (Univ
 
 My core stack is **Angular + Spring Boot**, and I work across the full pipeline — architecture, databases, APIs, interfaces, testing and deployment. I also branch into Node.js/Express, Next.js and cloud platforms like AWS depending on the project.
 
-🔹 **Specialization:** Full Stack Development with Angular, Java/Spring Boot and Node.js
-🔹 **Focus:** RESTful APIs, web applications and scalable architectures
-🔹 **Development:** Clean Code, SOLID and software engineering best practices
-🔹 **Currently:** Growing Maiawall while delivering client projects and studying at UFU
-🔹 **Goal:** Turn ideas and business needs into real, functional digital products
+🔹 **Specialization:** Full Stack Development with Angular, Java/Spring Boot and Node.js<br>
+🔹 **Focus:** RESTful APIs, web applications and scalable architectures<br>
+🔹 **Development:** Clean Code, SOLID and software engineering best practices<br>
+🔹 **Currently:** Growing Maiawall while delivering client projects and studying at UFU<br>
+🔹 **Goal:** Turn ideas and business needs into real, functional digital products<br>
 
 ---
 
