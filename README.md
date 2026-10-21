@@ -4,8 +4,8 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6DB33F&center=true&vCenter=true&width=650&lines=Fullstack+Developer;Angular+%2B+Spring+Boot;Information+Systems+Student;Building+Real+Digital+Solutions)
 
-[![Website](https://img.shields.io/badge/Portfolio-maiawall.com-9B1B1F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://maiawall.com)
-[![Services](https://img.shields.io/badge/Services-servicos.maiawall.com-9B1B1F?style=for-the-badge&logo=vercel&logoColor=white)](https://servicos.maiawall.com)
+[![Website](https://img.shields.io/badge/Portfolio-port.maiawall.com-9B1B1F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://port.maiawall.com)
+[![Services](https://img.shields.io/badge/Services-maiawall.com-9B1B1F?style=for-the-badge&logo=vercel&logoColor=white)](https://maiawall.com)
 
 </div>
 
