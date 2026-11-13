@@ -1,62 +1,92 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:9B1B1F,50:5c1013,100:0d1117&height=300&section=header&text=MAIAWALL&fontSize=90&fontColor=ffffff&fontAlignY=42&desc=we%20build%20the%20web%20your%20business%20runs%20on&descSize=20&descAlignY=64&descColor=f0b4b8&animation=twinkling" alt="Maiawall" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:9B1B1F,50:5c1013,100:0d1117&height=300&section=header&text=Wallace%20Maia&fontSize=80&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Developer%20%C2%B7%20Founder%20of%20Maiawall%20Tech&descSize=22&descAlignY=64&descColor=f0b4b8&animation=twinkling" alt="Wallace Maia" width="100%"/>
 
-<a href="https://maiawall.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FF4D5A&center=true&vCenter=true&width=720&height=45&lines=Websites+that+convert.;APIs+that+scale.;Systems+that+run+your+business.;Designed%2C+built+and+shipped+end+to+end." alt="Typing SVG"/></a>
+<a href="https://port.maiawall.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FF4D5A&center=true&vCenter=true&width=720&height=45&lines=Full+Stack+Developer;Angular+%2B+Spring+Boot;Founder+of+Maiawall+Tech;Information+Systems+%40+UFU;Turning+ideas+into+real+products" alt="Typing SVG"/></a>
 
 <br/>
 
-[![maiawall.com](https://img.shields.io/badge/maiawall.com-9B1B1F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://maiawall.com)
-[![Portfolio](https://img.shields.io/badge/portfolio-port.maiawall.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117&color=30363d)](https://port.maiawall.com)
-[![Fiverr](https://img.shields.io/badge/hire%20me-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://br.fiverr.com/wallace_maia?public_mode=true)
-[![WhatsApp](https://img.shields.io/badge/start%20a%20project-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5535910036806)
+**[👤 Wallace Maia](#-wallace-maia)** &nbsp;·&nbsp; **[🏢 Maiawall Tech](#-maiawall-tech)**
 
 </div>
 
 <br/>
 
-## `01` &nbsp; The Company
+---
 
-```bash
-$ ./maiawall --about
+<br/>
 
-  Maiawall is a dev brand that turns business needs into real,
-  working digital products: from the first landing page to
-  a full management system. One team, zero hand-offs.
+# 👤 Wallace Maia
+
+```yaml
+name: Wallace Candido Maia Sousa
+alias: Wallace Maia
+role: Full Stack Developer
+founder_of: Maiawall Tech
+location: Uberlândia, Minas Gerais, Brazil 🇧🇷
+education: B.Sc. Information Systems @ UFU
+core_stack: [Angular, Spring Boot]
+status: open to client projects, freelance, internships and jobs
 ```
+
+I'm a **Full Stack Developer** and the **Founder of Maiawall Tech**. I'm studying **Information Systems at UFU (Universidade Federal de Uberlândia)** while building web applications and digital products for real businesses.
+
+My core stack is **Angular + Spring Boot**, and I work across the whole pipeline: architecture, databases, APIs, interfaces, testing and deployment. Depending on the project I also bring in **Node.js, Express, NestJS, Next.js and AWS**.
+
+I like software that is clean, secure and actually gets used. I care about **Clean Code, SOLID** and the engineering habits that keep a project healthy long after launch.
+
+## 🎯 What I do
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3>🌐 Websites</h3>
-      Landing pages, institutional sites and portfolios built to load fast and convert.
+    <td width="25%" align="center" valign="top">
+      <h1>🎨</h1>
+      <h3>Front-End</h3>
+      <sub>Responsive, fast interfaces, with Next.js and React when the project asks for it.</sub>
+      <br/><br/>
+      <code>Angular</code> <code>TypeScript</code> <code>Tailwind</code> <code>RxJS</code>
     </td>
-    <td width="33%" valign="top">
-      <h3>⚙️ APIs</h3>
-      RESTful backends with JWT authentication, authorization and clean architecture.
+    <td width="25%" align="center" valign="top">
+      <h1>💻</h1>
+      <h3>Back-End</h3>
+      <sub>RESTful APIs secured with JWT, Spring Security and OAuth2.</sub>
+      <br/><br/>
+      <code>Java</code> <code>Spring Boot</code> <code>Node.js</code> <code>NestJS</code>
     </td>
-    <td width="33%" valign="top">
-      <h3>📊 Dashboards</h3>
-      Admin panels and internal tools to see and control your operation.
+    <td width="25%" align="center" valign="top">
+      <h1>🗄️</h1>
+      <h3>Data</h3>
+      <sub>Modeling and querying for relational and document databases.</sub>
+      <br/><br/>
+      <code>PostgreSQL</code> <code>MySQL</code> <code>MongoDB</code> <code>Supabase</code>
     </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🛒 Business Systems</h3>
-      E-commerce, ERP and CRM platforms shaped around how your company works.
-    </td>
-    <td width="33%" valign="top">
-      <h3>🤖 SaaS Products</h3>
-      Full applications with AI-assisted features, ready for real users.
-    </td>
-    <td width="33%" valign="top">
-      <h3>☁️ Deploy & DevOps</h3>
-      Dockerized deployments with CI/CD so shipping stays boring.
+    <td width="25%" align="center" valign="top">
+      <h1>☁️</h1>
+      <h3>Cloud & DevOps</h3>
+      <sub>Containers and pipelines to ship reliably.</sub>
+      <br/><br/>
+      <code>Docker</code> <code>AWS</code> <code>Nginx</code> <code>GitHub Actions</code>
     </td>
   </tr>
 </table>
 
-### How a project flows
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,react,nextjs,tailwind&perline=6" alt="frontend"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,nestjs&perline=6" alt="backend"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase&perline=6" alt="databases"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,vercel,nginx,linux&perline=6" alt="devops"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,postman&perline=6" alt="tools"/>
+</p>
+
+<p align="center"><sub>RxJS · Angular Material · Spring Security · Spring Data JPA · Hibernate · JWT · JUnit</sub></p>
+
+## 🧭 How I work
 
 ```mermaid
 flowchart LR
@@ -72,85 +102,12 @@ flowchart LR
     style G fill:#9B1B1F,stroke:#9B1B1F,color:#fff
 ```
 
-<br/>
+- 🔹 **Focus:** RESTful APIs, web applications and scalable architectures
+- 🔹 **Principles:** Clean Code, SOLID and software engineering best practices
+- 🔹 **Right now:** delivering client projects, growing Maiawall Tech and studying at UFU
+- 🔹 **Goal:** turn ideas and business needs into real, functional digital products
 
-## `02` &nbsp; Flagship: SplitHub
-
-<div align="center">
-
-[![SplitHub](https://img.shields.io/badge/▶%20LIVE-splithub.maiawall.com-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://splithub.maiawall.com)
-
-</div>
-
-**A shared expense platform** where groups organize, split and settle expenses without the awkward math.
-
-```mermaid
-flowchart LR
-    U([👤 User]) --> N[Nginx + SSL]
-    N --> F[Angular + Tailwind]
-    N --> B[Spring Boot API]
-    B <-->|WebSocket| F
-    B --> S[(Supabase)]
-    B -.-> AI[🤖 AI assistant]
-    G[Google OAuth2] --> B
-
-    style U fill:#9B1B1F,stroke:#9B1B1F,color:#fff
-```
-
-| | |
-|---|---|
-| 👥 **Groups** | Equal, custom and individual splitting |
-| ✅ **Settling** | Payment confirmation workflow |
-| 🔐 **Security** | JWT auth, authorization, Google OAuth2 login |
-| ⚡ **Real-time** | Live updates via WebSockets |
-| 🤖 **AI** | Assistant integrations |
-| 📱 **Responsive** | Works across every screen size |
-
-<sub>**Stack:** Java 21 · Spring Boot · Spring Security · Spring Data JPA · Hibernate · Angular · TypeScript · Tailwind CSS &nbsp;|&nbsp; **Infra:** AWS EC2 · Docker/ECR · Nginx · Certbot · Supabase</sub>
-
-<br/>
-
-## `03` &nbsp; The Developer
-
-<img align="right" width="320" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=1500&color=6DB33F&vCenter=true&width=320&height=30&lines=%3E+git+commit+-m+%22ship+it%22;%3E+docker+compose+up+-d;%3E+ng+serve+%26%26+mvn+spring-boot%3Arun" alt="terminal"/>
-
-```yaml
-name: Wallace Candido Maia Sousa
-role: Full Stack Developer
-founder_of: Maiawall
-location: Uberlândia, Minas Gerais, Brazil
-education: B.Sc. Information Systems @ UFU
-core_stack: [Angular, Spring Boot]
-also_works_with: [Node.js, Express, NestJS, Next.js, AWS]
-principles: [Clean Code, SOLID, ship real things]
-focus: RESTful APIs · scalable web applications
-goal: turn ideas into functional digital products
-open_to: [client projects, freelance, internships, jobs]
-```
-
-<details open>
-<summary><b>🧰 Tech stack</b></summary>
-<br/>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,react,nextjs,tailwind&perline=6" alt="frontend"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,nestjs&perline=6" alt="backend"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase&perline=6" alt="databases"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,vercel,nginx,linux&perline=6" alt="devops"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,postman&perline=6" alt="tools"/>
-</p>
-
-<p align="center"><sub>RxJS · Angular Material · Spring Security · JWT · JUnit</sub></p>
-
-</details>
-
-<br/>
-
-## `04` &nbsp; Activity
+## 📊 Activity
 
 <div align="center">
 
@@ -168,26 +125,112 @@ open_to: [client projects, freelance, internships, jobs]
 
 </div>
 
-<br/>
-
-## `05` &nbsp; Let's build something
-
-```bash
-$ ./contact --project "your idea"
-
-  > Status: open for client projects, freelance and opportunities
-  > Reply time: fast
-```
+## 📬 Contact Wallace
 
 <div align="center">
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5535910036806)
-[![Gmail](https://img.shields.io/badge/Email-9B1B1F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wallacemaia2007@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wallacemaia-dev/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wallace_maia._/)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://br.fiverr.com/wallace_maia?public_mode=true)
+[![Portfolio](https://img.shields.io/badge/Portfolio-port.maiawall.com-9B1B1F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://port.maiawall.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wallace%20Maia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wallacemaia-dev/)
+[![Instagram](https://img.shields.io/badge/Instagram-@wallace__maia.-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wallace_maia._/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Let's%20talk-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/553499594173)
 
-<sub>If you're working on something involving Angular, Java, Spring Boot or modern web apps, say hi.</sub>
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+# 🏢 Maiawall Tech
+
+```bash
+$ ./maiawalltech --about
+
+  Maiawall Tech is a dev brand that turns business needs into real,
+  working digital products: from the first landing page to a
+  full management system.
+```
+
+**Maiawall Tech** builds web products for real businesses, handling everything from architecture to deployment.
+
+## 🛠️ Services
+
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h1>🌐</h1>
+      <h3>Websites</h3>
+      <sub>Landing pages, institutional sites and portfolios built to load fast and convert.</sub>
+      <br/><br/>
+      <code>Angular</code> <code>Next.js</code> <code>Tailwind</code>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h1>⚙️</h1>
+      <h3>APIs</h3>
+      <sub>RESTful backends with JWT authentication, authorization and clean architecture.</sub>
+      <br/><br/>
+      <code>Spring Boot</code> <code>Node.js</code> <code>JWT</code>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h1>📊</h1>
+      <h3>Dashboards</h3>
+      <sub>Admin panels and internal tools to see and control your operation.</sub>
+      <br/><br/>
+      <code>Angular</code> <code>Spring Boot</code> <code>PostgreSQL</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h1>🛒</h1>
+      <h3>Business Systems</h3>
+      <sub>E-commerce, ERP and CRM platforms shaped around how your company works.</sub>
+      <br/><br/>
+      <code>ERP</code> <code>CRM</code> <code>E-commerce</code>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h1>🤖</h1>
+      <h3>SaaS Products</h3>
+      <sub>Full applications with AI-assisted features, ready for real users.</sub>
+      <br/><br/>
+      <code>Full Stack</code> <code>AI</code> <code>Auth</code>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h1>☁️</h1>
+      <h3>Deploy & DevOps</h3>
+      <sub>Dockerized deployments with CI/CD so shipping stays boring.</sub>
+      <br/><br/>
+      <code>Docker</code> <code>AWS</code> <code>CI/CD</code>
+    </td>
+  </tr>
+</table>
+
+## 📬 Contact Maiawall Tech
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-maiawall.com-9B1B1F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://maiawall.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maiawall%20Tech-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/maiawalltech)
+[![Instagram](https://img.shields.io/badge/Instagram-@maiawall.tech-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maiawall.tech/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Start%20a%20project-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/553499594173)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+# 💬 Let's talk
+
+<a href="https://wa.me/553499594173"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=FF4D5A&center=true&vCenter=true&width=600&height=40&lines=Have+an+idea%3F;Need+a+website%2C+API+or+system%3F;Let%27s+talk.;Let%27s+build+it." alt="Let's talk"/></a>
+
+<br/>
+
+<sub>Prefer another channel? Find Wallace on [LinkedIn](https://www.linkedin.com/in/wallacemaia-dev/) and [Instagram](https://www.instagram.com/wallace_maia._/), or Maiawall Tech on [LinkedIn](https://www.linkedin.com/company/maiawalltech) and [Instagram](https://www.instagram.com/maiawall.tech/).</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:9B1B1F&height=110&section=footer" width="100%"/>
 
