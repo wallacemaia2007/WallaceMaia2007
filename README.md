@@ -86,27 +86,6 @@ I like software that is clean, secure and actually gets used. I care about **Cle
 
 <p align="center"><sub>RxJS · Angular Material · Spring Security · Spring Data JPA · Hibernate · JWT · JUnit</sub></p>
 
-## 🧭 How I work
-
-```mermaid
-flowchart LR
-    A([💡 Idea]) --> B[Architecture]
-    B --> C[(Database)]
-    C --> D[API]
-    D --> E[Interface]
-    E --> F{Testing}
-    F -->|pass| G([🚀 Live])
-    F -->|fix| D
-
-    style A fill:#9B1B1F,stroke:#9B1B1F,color:#fff
-    style G fill:#9B1B1F,stroke:#9B1B1F,color:#fff
-```
-
-- 🔹 **Focus:** RESTful APIs, web applications and scalable architectures
-- 🔹 **Principles:** Clean Code, SOLID and software engineering best practices
-- 🔹 **Right now:** delivering client projects, growing Maiawall Tech and studying at UFU
-- 🔹 **Goal:** turn ideas and business needs into real, functional digital products
-
 ## 📊 Activity
 
 <div align="center">
